@@ -25,7 +25,7 @@ My role as a security analyst required me to ensure that the Suricata (intrusion
 
 ## **Lab Tasks and Execution**
 
-The lab was structured into several tasks to build proficiency in APT and sudo. Screenshots documenting each step of the process are available in the ./screenshots/ folder within this repository.
+The lab was structured into several tasks to build proficiency in APT and sudo.  
 
 ### **Task 1: Ensure that APT is installed**
 
