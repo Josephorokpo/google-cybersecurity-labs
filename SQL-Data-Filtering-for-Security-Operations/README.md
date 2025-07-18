@@ -26,6 +26,8 @@ The primary objectives of this analysis were to:
 
 The analysis involved constructing and executing various SQL queries against the organization database, progressively applying filters to refine the results. The findings from each query directly addressed the operational needs outlined in the scenario.
 
+A detailed report of the analysis, including all queries and their outputs, is available in the SQL_Filtering_Analysis_Report.md file.
+
 ## **Key Learnings**
 
 This project provided valuable hands-on experience in:
