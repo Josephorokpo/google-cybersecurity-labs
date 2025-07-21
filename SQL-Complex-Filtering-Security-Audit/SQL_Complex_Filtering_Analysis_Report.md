@@ -15,7 +15,7 @@ To investigate suspicious activity, the security team needed to identify all uns
 * **SQL Query:**  
   SELECT \*  
   FROM log\_in\_attempts  
-  WHERE login\_time \> '18:00' AND success \= FALSE;
+  WHERE login\_time \> '18:00' AND success \= 0;
 
 * **Simulated Output (Excerpt):**  
   \+----------+----------+------------+----------+---------+---------+  
