@@ -1,4 +1,4 @@
-# **Commercial Bank Risk Register**
+# **Commercial Bank Cybersecurity Risk Register**
 
 ## **Project Overview**
 
